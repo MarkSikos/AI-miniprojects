@@ -141,5 +141,3 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 - Recurrent Neural Networks for Short-Term Load Forecasting: An Overview" by João P.S. Catalão
 - ELTE university materials 
-
->>>>>>> master
